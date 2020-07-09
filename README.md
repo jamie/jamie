@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software architect at @versapay, with over 15 years experience in Ruby, Rails, and the web.
+I'm a software architect at [VersaPay](https://www.versapay.com/), with over 15 years experience in Ruby, Rails, and the web.
 
 - 🔭 I’m currently working on scalability challenges
 - 🌱 I’m currently learning Stimulus JS and some of the other new things in Rails 6 (and coming in 6.1)
